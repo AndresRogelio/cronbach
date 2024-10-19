@@ -44,4 +44,4 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork 
   - `likert`: Facilita la visualización de datos categóricos utilizando escalas tipo Likert. [CRAN](https://cran.r-project.org/web/packages/likert/index.html)
 
 - **Recursos Adicionales**:
-  - Para más información sobre análisis de datos en R, puedes consultar el libro "R for Data Science" de Hadley Wickham y Garrett Grolemund. [R for Data Science](https://r4ds.had.co.nz/)
+  - Para más información sobre análisis de datos en R, puedes consultar el manual "Introducción a R y RStudio" del profesor José Ulises Jimenez. [ridda2.utp.ac.pa](https://ridda2.utp.ac.pa/handle/123456789/9428)
